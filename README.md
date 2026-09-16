@@ -1,6 +1,11 @@
 # Customer-Churn-Prediction
 Customer churn analysis, machine learning prediction, and Power BI dashboard.
 
+## Gradio App
+
+### Customer Churn Prediction
+![Gradio Prediction Result](Gradio_Prediction_Result.png)
+
 ## Power BI Dashboard
 
 ### Customer Churn Overview
